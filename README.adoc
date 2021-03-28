@@ -1,13 +1,14 @@
 = SoilMoistureTools
-
-// Table of contents
-:toc:
-:toc-placement: preamble
+Kaspar Johannes Schneider <kaspar.sch@outlook.com>
+:description: A set of tools used for some experiments with a capacitive soil moisture sensor
+:setanchors:
+:toc: macro
 :toclevels: 3
-
-// Numbered sections
 :sectnums:
 
+This repo contains a set of tools used for some experiments with a capacitive soil moisture sensor.
+
+toc::[]
 
 == test
 ddd
