@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#C:/Users/kaspa/OneDrive/03_Kaspar Schneider Privat/30_Projekte/SoilMoistureTools/src/Python/DataPoint.py</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">src.Python.DataPoint.DataPoint</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="143.5" y="15.5" />
+  <SelectedNodes>
+    <node>src.Python.DataPoint.DataPoint</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+</Diagram>
+
