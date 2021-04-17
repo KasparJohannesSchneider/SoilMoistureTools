@@ -5,6 +5,7 @@ Kaspar Johannes Schneider <kaspar.sch@outlook.com>
 :toc: macro
 :toclevels: 3
 :sectnums:
+:source-highlighter: rouge
 
 image:https://github.com/KasparJohannesSchneider/SoilMoistureTools/actions/workflows/test.yml/badge.svg[link=https://github.com/KasparJohannesSchneider/SoilMoistureTools/actions/workflows/test.yml]
 image:https://github.com/KasparJohannesSchneider/SoilMoistureTools/actions/workflows/doc.yml/badge.svg[link=https://github.com/KasparJohannesSchneider/SoilMoistureTools/actions/workflows/doc.yml]
@@ -26,3 +27,4 @@ ddd
 
 ==== test
 ddd
+ 
